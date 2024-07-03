@@ -56,5 +56,3 @@ PixelPerfect Art Gallery is an innovative online platform that transcends tradit
 ## Outcome
 
 PixelPerfect Art Gallery has successfully created a digital haven for pixel art enthusiasts, providing a secure and engaging platform for artists and collectors alike. The integration of blockchain technology ensures transparency and authenticity in the world of digital art, fostering a vibrant community that appreciates the uniqueness and creativity of pixel art NFTs.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).

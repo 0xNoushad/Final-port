@@ -55,5 +55,3 @@ FitQuest is an augmented reality (AR) fitness adventure game that revolutionizes
 ## Outcome
 
 FitQuest has transformed the fitness landscape by merging physical activity with immersive gaming experiences. Users not only enjoy staying active but also find motivation in the storyline and challenges, creating a unique and entertaining approach to maintaining a healthy lifestyle.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
