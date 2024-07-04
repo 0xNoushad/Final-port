@@ -38,6 +38,7 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
+
     title: 'Noushad',
     subtitle: 'A FrontEnd Dev Who Is Learning BackEnd',
     description: 'Personal Portfolio',
