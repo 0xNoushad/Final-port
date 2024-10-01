@@ -10,7 +10,7 @@ seo:
 
 ![Project preview](/project-1.jpg)
 
-Link:(<https://thr-33-d33.vercel.app/>)
+Check Here:(<https://thr-33-d33.vercel.app/>)
 
 **Project Overview:**
 Thr33-D33 is a revolutionary mobile application that empowers users to create stunning 3D representations from 2D text and images. With a focus on creativity and innovation, Thr33-D33 brings users' ideas to life, making it an ideal tool for artists, designers, and anyone looking to visualize their imagination.

@@ -1,60 +1,57 @@
 ---
-title: 'RoboChef - AI Powered Cooking Guide'
-description: RoboChef Recipe Assistant is a groundbreaking mobile application that leverages artificial intelligence to redefine the cooking experience.
-publishDate: 'Oct 12 2023'
-isFeatured: true
+title: 'Thr33-D33: 3D Representation App'
+description: Thr33-D33 is a mobile app that converts 2D text and images into stunning 3D representations. Users can input text or upload images, and the app will generate a 3D model, bringing their creations to life.
+publishDate: 'Aug 02 2024'
 seo:
   image:
-    src: '/project-3.jpg'
+    src: '/project-1.jpg'
+    alt: Project preview
 ---
 
-![Project preview](/project-3.jpg)
+![Project preview](/project-1.jpg)
+
+Check Here:(<https://thr-33-d33.vercel.app/>)
 
 **Project Overview:**
-RoboChef Recipe Assistant is a groundbreaking mobile application that leverages artificial intelligence to redefine the cooking experience. By combining machine learning with culinary expertise, RoboChef empowers users to explore a world of flavors, improve their cooking skills, and enjoy personalized recipe recommendations.
+Thr33-D33 is a revolutionary mobile application that empowers users to create stunning 3D representations from 2D text and images. With a focus on creativity and innovation, Thr33-D33 brings users' ideas to life, making it an ideal tool for artists, designers, and anyone looking to visualize their imagination.
 
 ## Objectives
 
-1. Develop a user-friendly mobile app that utilizes AI to provide personalized recipe suggestions based on user preferences, dietary restrictions, and available ingredients.
-2. Create an interactive cooking guide that assists users with step-by-step instructions, cooking tips, and real-time assistance.
-3. Implement a smart learning system that refines recommendations over time, adapting to users' taste preferences and dietary changes.
+1. Develop a user-friendly mobile app that converts 2D text and images into 3D representations.
+2. Utilize cutting-edge technology to provide high-quality 3D models.
+3. Offer a platform for users to express their creativity and bring their ideas to life.
 
 ## Features
 
-1. **AI-Powered Recipe Recommendations:**
+1. **Text-to-3D:**
 
-- RoboChef analyzes users' taste preferences, dietary restrictions, and ingredient availability to suggest personalized recipes.
-- Machine learning algorithms continuously learn from user interactions, refining recommendations for an increasingly tailored experience.
+-Users can input text, and the app will generate a 3D representation of the text.
+-Customizable fonts, colors, and styles allow users to personalize their 3D text.
 
-2. **Ingredient Scanner and Inventory Management:**
+. **Image-to-3D:**
 
-- Users can scan their pantry and refrigerator using the app's built-in ingredient scanner.
-- RoboChef provides recipe suggestions based on available ingredients and helps users manage their inventory by suggesting recipes that utilize soon-to-expire items.
+-Users can upload images, and the app will convert them into 3D models.
+-Advanced algorithms ensure high-quality 3D representations, preserving the original image's details.
 
-3. **Step-by-Step Cooking Guide:**
+. **Gallery and Sharing:**
 
-- Each recipe includes a detailed step-by-step cooking guide with interactive multimedia elements.
-- Users can watch video tutorials, view images, and receive real-time tips from RoboChef as they progress through each cooking stage.
+- Users can save and view their 3D creations in a personalized gallery.
+  -Share 3D models on social media or via email, allowing users to showcase their creativity.
 
-4. **Nutritional Insights and Meal Planning:**
+. **3D Model Customization:**
 
-- RoboChef provides nutritional information for each recipe, helping users make informed decisions about their meals.
-- The app offers meal planning features, allowing users to create weekly menus based on dietary goals and preferences.
-
-5. **Voice-Activated Assistance:**
-
-- Users can interact with RoboChef using voice commands for a hands-free cooking experience.
-- The AI assistant responds to queries, provides cooking tips, and adapts recipes based on user preferences.
+- Users can customize their 3D models with various materials, textures, and lighting effects.
+  -Real-time rendering allows users to see the changes they make to their 3D models.
 
 ## Technology Stack
 
-- Frontend: Flutter for a seamless cross-platform mobile app experience.
-- Backend: Django for handling server-side logic and API integration.
-- Database: PostgreSQL for efficient data storage and retrieval.
-- AI Integration: TensorFlow for machine learning models powering recipe recommendations.
-
-> Ethan Donovan possesses a rare blend of technical expertise and creative flair. They skillfully transformed our vague ideas into a visually stunning and highly functional website. The end result exceeded our expectations, and we continue to receive compliments on the design and user experience.
+- Frontend: HTML, CSS, and JavaScript for building the mobile app's user interface and client-side logic.
+  -API: Hugging Face's API for image processing and 3D model generation, providing high-quality 3D representations.
 
 ## Outcome
 
-RoboChef Recipe Assistant has revolutionized the way users approach cooking, making it an enjoyable and educational experience. The AI-powered features not only simplify the cooking process but also contribute to users' culinary growth, creating a personalized and evolving cooking journey.
+Thr33-D33 has successfully provided a platform for users to unleash their creativity and bring their ideas to life. The app's innovative technology and user-friendly interface have made it a go-to tool for artists, designers, and anyone looking to visualize their imagination.
+
+## Client Testimonial
+
+> We couldn't be happier with the results delivered by Noushad. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.

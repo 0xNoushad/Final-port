@@ -1,60 +1,57 @@
 ---
-title: 'TimeWarp - Travel Agency Website'
-description: Explore the possibilities of time travel through an immersive website for a fictional travel agency, complete with dynamic destination timelines and interactive historical events.
-publishDate: 'Oct 2 2023'
-isFeatured: true
+title: 'Thr33-D33: 3D Representation App'
+description: Thr33-D33 is a mobile app that converts 2D text and images into stunning 3D representations. Users can input text or upload images, and the app will generate a 3D model, bringing their creations to life.
+publishDate: 'Aug 02 2024'
 seo:
   image:
-    src: '/project-2.jpg'
+    src: '/project-1.jpg'
     alt: Project preview
 ---
 
-![Project preview](/project-2.jpg)
+![Project preview](/project-1.jpg)
+
+Check Here:(<https://thr-33-d33.vercel.app/>)
 
 **Project Overview:**
-TimeWarp Travel Agency aims to redefine the travel experience by offering an innovative and immersive online platform that explores the concept of time travel. The website combines cutting-edge technology with captivating storytelling to provide users with a unique journey through time.
-
-> Working with Ethan Donovan was a game-changer for our online presence. Their innovative solutions and attention to detail turned our vision into a reality. The website not only looks fantastic but also functions seamlessly. A true professional who exceeded our expectations!
+Thr33-D33 is a revolutionary mobile application that empowers users to create stunning 3D representations from 2D text and images. With a focus on creativity and innovation, Thr33-D33 brings users' ideas to life, making it an ideal tool for artists, designers, and anyone looking to visualize their imagination.
 
 ## Objectives
 
-1. Create a visually stunning and user-friendly website that captures the essence of time travel.
-2. Integrate interactive elements to engage users and make the experience memorable.
-3. Develop a responsive design to ensure a seamless user experience across various devices.
+1. Develop a user-friendly mobile app that converts 2D text and images into 3D representations.
+2. Utilize cutting-edge technology to provide high-quality 3D models.
+3. Offer a platform for users to express their creativity and bring their ideas to life.
 
 ## Features
 
-1. **Dynamic Destination Timelines:**
+1. **Text-to-3D:**
 
-- Users can explore destinations through dynamic timelines, showcasing significant historical events, cultural developments, and architectural milestones.
-- Interactive sliders allow users to navigate through different eras, providing a visual representation of the historical evolution of each location.
+-Users can input text, and the app will generate a 3D representation of the text.
+-Customizable fonts, colors, and styles allow users to personalize their 3D text.
 
-2. **Interactive Historical Events:**
+. **Image-to-3D:**
 
-- Users can click on specific points in the timeline to reveal detailed information about key historical events related to the chosen destination.
-- Rich multimedia content, including images, videos, and articles, provides a comprehensive understanding of each event.
+-Users can upload images, and the app will convert them into 3D models.
+-Advanced algorithms ensure high-quality 3D representations, preserving the original image's details.
 
-3. **Personalized Time Travel Planner:**
+. **Gallery and Sharing:**
 
-- A personalized planner feature enables users to create their time travel itineraries by selecting specific eras and destinations.
-- The system suggests thematic experiences, such as attending historical events or meeting famous personalities.
+- Users can save and view their 3D creations in a personalized gallery.
+  -Share 3D models on social media or via email, allowing users to showcase their creativity.
 
-4. **Time-Port Virtual Reality Experience:**
+. **3D Model Customization:**
 
-- For an extra layer of immersion, users can opt for the Time-Port VR experience, allowing them to virtually step into different time periods and explore the surroundings in 360 degrees.
-
-5. **Chronicle Explorer Blog:**
-
-- A blog section, "Chronicle Explorer," offers in-depth articles and stories about various historical periods and their impact on the destinations featured on the platform.
-- Users can engage with the content, comment, and share their own historical insights.
+- Users can customize their 3D models with various materials, textures, and lighting effects.
+  -Real-time rendering allows users to see the changes they make to their 3D models.
 
 ## Technology Stack
 
-- **Frontend:** [Astro.js](https://astro.build/) for a dynamic and responsive user interface and [Tailwind CSS](https://tailwindcss.com/) for styling.
-- **Backend:** Node.js for handling server-side logic and API integration.
-- **Database:** MongoDB for efficient storage and retrieval of historical data.
-- **VR Integration:** A-Frame framework for creating immersive virtual reality experiences.
+- Frontend: HTML, CSS, and JavaScript for building the mobile app's user interface and client-side logic.
+  -API: Hugging Face's API for image processing and 3D model generation, providing high-quality 3D representations.
 
 ## Outcome
 
-The TimeWarp Travel Agency Website successfully brings the concept of time travel to life, providing users with a captivating and educational experience. The website not only serves as a travel planning tool but also as an interactive platform that encourages users to explore and appreciate the rich tapestry of human history.
+Thr33-D33 has successfully provided a platform for users to unleash their creativity and bring their ideas to life. The app's innovative technology and user-friendly interface have made it a go-to tool for artists, designers, and anyone looking to visualize their imagination.
+
+## Client Testimonial
+
+> We couldn't be happier with the results delivered by Noushad. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.

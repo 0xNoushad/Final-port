@@ -1,57 +1,57 @@
 ---
-title: FitQuest - AR Fitness Adventure Game
-description: This web application encourages users to embark on thrilling adventures, complete challenges, and achieve fitness goals in an engaging virtual environment.
-publishDate: 'Dec 28 2023'
+title: 'Thr33-D33: 3D Representation App'
+description: Thr33-D33 is a mobile app that converts 2D text and images into stunning 3D representations. Users can input text or upload images, and the app will generate a 3D model, bringing their creations to life.
+publishDate: 'Aug 02 2024'
 seo:
   image:
-    src: '/project-6.jpg'
+    src: '/project-1.jpg'
+    alt: Project preview
 ---
 
-![Project preview](/project-6.jpg)
+![Project preview](/project-1.jpg)
+
+Check Here:(<https://thr-33-d33.vercel.app/>)
 
 **Project Overview:**
-FitQuest is an augmented reality (AR) fitness adventure game that revolutionizes traditional workout routines by combining physical exercise with immersive gameplay. This web application encourages users to embark on thrilling adventures, complete challenges, and achieve fitness goals in an engaging virtual environment.
+Thr33-D33 is a revolutionary mobile application that empowers users to create stunning 3D representations from 2D text and images. With a focus on creativity and innovation, Thr33-D33 brings users' ideas to life, making it an ideal tool for artists, designers, and anyone looking to visualize their imagination.
 
 ## Objectives
 
-1. Develop a fitness app that leverages augmented reality to make workouts more enjoyable and interactive.
-2. Integrate real-world locations and landmarks into the game, turning everyday environments into exciting adventure settings.
-3. Motivate users to stay active and maintain a consistent fitness routine by blending physical activity with a captivating storyline.
+1. Develop a user-friendly mobile app that converts 2D text and images into 3D representations.
+2. Utilize cutting-edge technology to provide high-quality 3D models.
+3. Offer a platform for users to express their creativity and bring their ideas to life.
 
 ## Features
 
-1. **Augmented Reality Workouts:**
+1. **Text-to-3D:**
 
-- FitQuest utilizes AR technology to overlay game elements onto the real-world environment, creating an immersive and dynamic workout experience.
-- Users engage in exercises that align with the game's storyline while interacting with virtual elements superimposed on their surroundings.
+-Users can input text, and the app will generate a 3D representation of the text.
+-Customizable fonts, colors, and styles allow users to personalize their 3D text.
 
-2. **Interactive Storyline and Challenges:**
+. **Image-to-3D:**
 
-- The app features an adventure-driven storyline where users embark on quests and missions to complete fitness challenges.
-- Challenges include cardio exercises, strength training, and flexibility workouts, seamlessly integrated into the game's narrative.
+-Users can upload images, and the app will convert them into 3D models.
+-Advanced algorithms ensure high-quality 3D representations, preserving the original image's details.
 
-3. **Real-World Landmarks Integration:**
+. **Gallery and Sharing:**
 
-- FitQuest incorporates real-world landmarks and locations as key elements in the game, turning parks, streets, and other environments into virtual fitness arenas.
-- Users explore these locations while completing fitness challenges and unlocking new levels.
+- Users can save and view their 3D creations in a personalized gallery.
+  -Share 3D models on social media or via email, allowing users to showcase their creativity.
 
-4. **Multiplayer Mode and Team Challenges:**
+. **3D Model Customization:**
 
-- Users can connect with friends or join teams to participate in multiplayer challenges.
-- Team-based missions encourage collaboration and friendly competition, enhancing the social aspect of fitness.
-
-5. **Fitness Tracking and Progress Monitoring:**
-
-- The app includes a comprehensive fitness tracking system that monitors users' progress, calories burned, and achievements.
-- Users can set personalized fitness goals and track their improvement over time.
+- Users can customize their 3D models with various materials, textures, and lighting effects.
+  -Real-time rendering allows users to see the changes they make to their 3D models.
 
 ## Technology Stack
 
-- Frontend: Unity for AR game development.
-- Backend: Node.js for handling server-side logic and real-time data synchronization.
-- Database: MongoDB for storing user profiles, fitness data, and game progress.
-- AR Integration: ARCore (Android) and ARKit (iOS) for augmented reality features.
+- Frontend: HTML, CSS, and JavaScript for building the mobile app's user interface and client-side logic.
+  -API: Hugging Face's API for image processing and 3D model generation, providing high-quality 3D representations.
 
 ## Outcome
 
-FitQuest has transformed the fitness landscape by merging physical activity with immersive gaming experiences. Users not only enjoy staying active but also find motivation in the storyline and challenges, creating a unique and entertaining approach to maintaining a healthy lifestyle.
+Thr33-D33 has successfully provided a platform for users to unleash their creativity and bring their ideas to life. The app's innovative technology and user-friendly interface have made it a go-to tool for artists, designers, and anyone looking to visualize their imagination.
+
+## Client Testimonial
+
+> We couldn't be happier with the results delivered by Noushad. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.

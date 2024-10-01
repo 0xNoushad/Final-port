@@ -1,58 +1,57 @@
 ---
-title: CryptoTrader - Cryptocurrency Portfolio Manager
-description: CryptoTrader Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios.
-publishDate: 'Jan 10 2024'
-isFeatured: true
+title: 'Thr33-D33: 3D Representation App'
+description: Thr33-D33 is a mobile app that converts 2D text and images into stunning 3D representations. Users can input text or upload images, and the app will generate a 3D model, bringing their creations to life.
+publishDate: 'Aug 02 2024'
 seo:
   image:
-    src: 'project-7.jpg'
+    src: '/project-1.jpg'
+    alt: Project preview
 ---
 
-![Project preview](/project-7.jpg)
+![Project preview](/project-1.jpg)
+
+Check Here:(<https://thr-33-d33.vercel.app/>)
 
 **Project Overview:**
-CryptoTrader Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios. By providing real-time market data, analytics, and portfolio tracking, the dashboard offers a seamless experience for users to monitor and enhance their cryptocurrency investments.
+Thr33-D33 is a revolutionary mobile application that empowers users to create stunning 3D representations from 2D text and images. With a focus on creativity and innovation, Thr33-D33 brings users' ideas to life, making it an ideal tool for artists, designers, and anyone looking to visualize their imagination.
 
 ## Objectives
 
-1. Develop a user-friendly and feature-rich dashboard that consolidates real-time data from various cryptocurrency exchanges.
-2. Provide tools for users to analyze market trends, track their portfolio performance, and make informed investment decisions.
-3. Create a secure and efficient platform that ensures users have a holistic view of their cryptocurrency holdings.
+1. Develop a user-friendly mobile app that converts 2D text and images into 3D representations.
+2. Utilize cutting-edge technology to provide high-quality 3D models.
+3. Offer a platform for users to express their creativity and bring their ideas to life.
 
 ## Features
 
-1. **Multi-Exchange Integration:**
+1. **Text-to-3D:**
 
-- CryptoTrader Dashboard aggregates data from multiple cryptocurrency exchanges, allowing users to view their entire portfolio in one centralized location.
-- Real-time updates provide the latest market prices, trading volumes, and order book data.
+-Users can input text, and the app will generate a 3D representation of the text.
+-Customizable fonts, colors, and styles allow users to personalize their 3D text.
 
-2. **Portfolio Analytics:**
+. **Image-to-3D:**
 
-- Users can analyze their portfolio's performance through interactive charts and graphs.
-- The dashboard offers insights into historical performance, asset allocation, and profit/loss over time.
+-Users can upload images, and the app will convert them into 3D models.
+-Advanced algorithms ensure high-quality 3D representations, preserving the original image's details.
 
-3. **Risk Management Tools:**
+. **Gallery and Sharing:**
 
-- Advanced risk management tools help users assess the volatility and potential risks associated with their cryptocurrency investments.
-- Users receive alerts for significant market fluctuations or changes in their portfolio value.
+- Users can save and view their 3D creations in a personalized gallery.
+  -Share 3D models on social media or via email, allowing users to showcase their creativity.
 
-4. **Automated Transaction Tracking:**
+. **3D Model Customization:**
 
-- The dashboard automatically tracks and records users' cryptocurrency transactions, simplifying the process of updating and managing portfolios.
-- Users can categorize transactions, add notes, and maintain a comprehensive transaction history.
-
-5. **News and Market Insights:**
-
-- A dedicated section provides real-time news and market insights relevant to users' cryptocurrency holdings.
-- Users can stay informed about market trends, regulatory developments, and news affecting their investment decisions.
+- Users can customize their 3D models with various materials, textures, and lighting effects.
+  -Real-time rendering allows users to see the changes they make to their 3D models.
 
 ## Technology Stack
 
-- Frontend: React for a responsive and interactive user interface.
-- Backend: Django for server-side logic and API integration.
-- Database: PostgreSQL for efficient storage and retrieval of portfolio and market data.
-- API Integration: Integration with cryptocurrency exchange APIs for real-time market data.
+- Frontend: HTML, CSS, and JavaScript for building the mobile app's user interface and client-side logic.
+  -API: Hugging Face's API for image processing and 3D model generation, providing high-quality 3D representations.
 
 ## Outcome
 
-CryptoTrader Dashboard has become a trusted companion for cryptocurrency investors, offering a consolidated and user-friendly platform for managing their portfolios. The robust analytics, real-time market data, and risk management tools empower users to make informed decisions and navigate the dynamic world of cryptocurrency with confidence.
+Thr33-D33 has successfully provided a platform for users to unleash their creativity and bring their ideas to life. The app's innovative technology and user-friendly interface have made it a go-to tool for artists, designers, and anyone looking to visualize their imagination.
+
+## Client Testimonial
+
+> We couldn't be happier with the results delivered by Noushad. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.

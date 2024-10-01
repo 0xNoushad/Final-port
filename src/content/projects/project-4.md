@@ -1,57 +1,57 @@
 ---
-title: 'NeuralPlaylist - AI Generated Music Recommendations'
-description: Leveraging advanced algorithms and machine learning, NeuralPlaylist crafts personalized music recommendations based on users' preferences, moods, and even biometric data.
-publishDate: 'Oct 19 2023'
+title: 'Thr33-D33: 3D Representation App'
+description: Thr33-D33 is a mobile app that converts 2D text and images into stunning 3D representations. Users can input text or upload images, and the app will generate a 3D model, bringing their creations to life.
+publishDate: 'Aug 02 2024'
 seo:
   image:
-    src: '/project-4.jpg'
+    src: '/project-1.jpg'
+    alt: Project preview
 ---
 
-![Project preview](/project-4.jpg)
+![Project preview](/project-1.jpg)
+
+Check Here:(<https://thr-33-d33.vercel.app/>)
 
 **Project Overview:**
-NeuralPlaylist is a cutting-edge web application that redefines music discovery through the power of artificial intelligence. Leveraging advanced algorithms and machine learning, NeuralPlaylist crafts personalized music recommendations based on users' preferences, moods, and even biometric data.
+Thr33-D33 is a revolutionary mobile application that empowers users to create stunning 3D representations from 2D text and images. With a focus on creativity and innovation, Thr33-D33 brings users' ideas to life, making it an ideal tool for artists, designers, and anyone looking to visualize their imagination.
 
 ## Objectives
 
-1. Develop an intuitive and user-friendly web application that utilizes AI to curate personalized music playlists for users.
-2. Implement machine learning models that analyze user behavior, preferences, and physiological responses to create dynamic and context-aware music recommendations.
-3. Provide an immersive and interactive platform that enhances the music listening experience and introduces users to new genres and artists.
+1. Develop a user-friendly mobile app that converts 2D text and images into 3D representations.
+2. Utilize cutting-edge technology to provide high-quality 3D models.
+3. Offer a platform for users to express their creativity and bring their ideas to life.
 
 ## Features
 
-1. **Biometric Mood Analysis:**
+1. **Text-to-3D:**
 
-- NeuralPlaylist incorporates biometric data analysis to understand users' moods and emotional states.
-- The AI algorithms use facial recognition and heart rate data to curate playlists that match users' current emotional states.
+-Users can input text, and the app will generate a 3D representation of the text.
+-Customizable fonts, colors, and styles allow users to personalize their 3D text.
 
-2. **Personalized Playlists:**
+. **Image-to-3D:**
 
-- Users receive dynamic and highly personalized playlists based on their music history, preferences, and contextual factors.
-- NeuralPlaylist adapts to users' evolving tastes, introducing them to new genres and artists that align with their musical journey.
+-Users can upload images, and the app will convert them into 3D models.
+-Advanced algorithms ensure high-quality 3D representations, preserving the original image's details.
 
-3. **Context-Aware Recommendations:**
+. **Gallery and Sharing:**
 
-- The application takes into account contextual factors such as time of day, weather, and location to tailor music recommendations.
-- Users receive playlists suited for specific occasions, moods, and environments.
+- Users can save and view their 3D creations in a personalized gallery.
+  -Share 3D models on social media or via email, allowing users to showcase their creativity.
 
-4. **Collaborative Playlists:**
+. **3D Model Customization:**
 
-- NeuralPlaylist encourages social interaction by allowing users to create and share collaborative playlists with friends.
-- Friends can contribute to the playlist, creating a shared musical experience that adapts to the collective preferences of the group.
-
-5. **Real-Time Feedback Integration:**
-
-- Users can provide real-time feedback on song selections, allowing the AI to continuously refine recommendations.
-- The system learns from user interactions to enhance the accuracy of future music suggestions.
+- Users can customize their 3D models with various materials, textures, and lighting effects.
+  -Real-time rendering allows users to see the changes they make to their 3D models.
 
 ## Technology Stack
 
-- Frontend: Vue.js for a dynamic and responsive user interface.
-- Backend: Flask for handling server-side logic and API integration.
-- Database: MongoDB for efficient storage and retrieval of user and music data.
-- AI Integration: PyTorch for developing machine learning models for music recommendation and biometric analysis.
+- Frontend: HTML, CSS, and JavaScript for building the mobile app's user interface and client-side logic.
+  -API: Hugging Face's API for image processing and 3D model generation, providing high-quality 3D representations.
 
 ## Outcome
 
-NeuralPlaylist has redefined the music listening experience by harnessing the power of AI to provide users with hyper-personalized and context-aware playlists. The application not only adapts to users' musical preferences but also introduces them to new and exciting musical journeys based on their emotions and surroundings.
+Thr33-D33 has successfully provided a platform for users to unleash their creativity and bring their ideas to life. The app's innovative technology and user-friendly interface have made it a go-to tool for artists, designers, and anyone looking to visualize their imagination.
+
+## Client Testimonial
+
+> We couldn't be happier with the results delivered by Noushad. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.

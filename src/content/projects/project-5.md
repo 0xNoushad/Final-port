@@ -1,58 +1,57 @@
 ---
-title: 'PixelPerfect Art Gallery'
-description: PixelPerfect Art Gallery is an innovative online platform that transcends traditional art exhibition spaces.
-publishDate: 'Oct 25 2023'
-isFeatured: true
+title: 'Thr33-D33: 3D Representation App'
+description: Thr33-D33 is a mobile app that converts 2D text and images into stunning 3D representations. Users can input text or upload images, and the app will generate a 3D model, bringing their creations to life.
+publishDate: 'Aug 02 2024'
 seo:
   image:
-    src: '/project-5.jpg'
+    src: '/project-1.jpg'
+    alt: Project preview
 ---
 
-![Project preview](/project-5.jpg)
+![Project preview](/project-1.jpg)
+
+Check Here:(<https://thr-33-d33.vercel.app/>)
 
 **Project Overview:**
-PixelPerfect Art Gallery is an innovative online platform that transcends traditional art exhibition spaces. This web application is dedicated to showcasing and celebrating pixel art in the form of Non-Fungible Tokens (NFTs), providing artists with a digital canvas to display their unique creations while ensuring secure ownership through blockchain technology.
+Thr33-D33 is a revolutionary mobile application that empowers users to create stunning 3D representations from 2D text and images. With a focus on creativity and innovation, Thr33-D33 brings users' ideas to life, making it an ideal tool for artists, designers, and anyone looking to visualize their imagination.
 
 ## Objectives
 
-1. Create an immersive online gallery experience specifically tailored for pixel art enthusiasts and NFT collectors.
-2. Utilize blockchain technology to authenticate and secure ownership of digital artworks, ensuring a transparent and tamper-proof art marketplace.
-3. Foster a community of digital artists and art collectors, providing a platform for collaboration, appreciation, and exchange.
+1. Develop a user-friendly mobile app that converts 2D text and images into 3D representations.
+2. Utilize cutting-edge technology to provide high-quality 3D models.
+3. Offer a platform for users to express their creativity and bring their ideas to life.
 
 ## Features
 
-1. **NFT Art Exhibition:**
+1. **Text-to-3D:**
 
-- PixelPerfect features a curated exhibition of pixel art NFTs, showcasing a diverse range of styles, themes, and techniques.
-- Users can explore and appreciate the intricate details of each digital artwork in a visually stunning online gallery.
+-Users can input text, and the app will generate a 3D representation of the text.
+-Customizable fonts, colors, and styles allow users to personalize their 3D text.
 
-2. **Blockchain Authentication:**
+. **Image-to-3D:**
 
-- Each pixel art piece is tokenized as an NFT on a blockchain, ensuring authenticity, provenance, and secure ownership.
-- Users can view the blockchain records to verify the origin and history of the digital artworks.
+-Users can upload images, and the app will convert them into 3D models.
+-Advanced algorithms ensure high-quality 3D representations, preserving the original image's details.
 
-3. **Virtual Art Auctions:**
+. **Gallery and Sharing:**
 
-- PixelPerfect hosts virtual art auctions, allowing users to bid on and acquire exclusive pixel art NFTs.
-- The auction platform provides a dynamic and engaging environment for art enthusiasts and collectors.
+- Users can save and view their 3D creations in a personalized gallery.
+  -Share 3D models on social media or via email, allowing users to showcase their creativity.
 
-4. **Community Collaboration Spaces:**
+. **3D Model Customization:**
 
-- Dedicated community spaces allow artists to connect, collaborate, and showcase their creative process.
-- Users can discuss techniques, share insights, and even collaborate on pixel art projects within the PixelPerfect community.
-
-5. **Interactive Pixel Art Creation Workshop:**
-
-- PixelPerfect provides a virtual workshop where users can create their own pixel art and potentially tokenize their creations as NFTs.
-- Artists can share their works with the community or submit them for consideration in future exhibitions.
+- Users can customize their 3D models with various materials, textures, and lighting effects.
+  -Real-time rendering allows users to see the changes they make to their 3D models.
 
 ## Technology Stack
 
-- Frontend: Angular for a dynamic and responsive user interface.
-- Backend: Node.js for handling server-side logic and API integration.
-- Database: Ethereum blockchain for storing NFT ownership and transaction details.
-- Smart Contracts: Solidity for developing blockchain smart contracts.
+- Frontend: HTML, CSS, and JavaScript for building the mobile app's user interface and client-side logic.
+  -API: Hugging Face's API for image processing and 3D model generation, providing high-quality 3D representations.
 
 ## Outcome
 
-PixelPerfect Art Gallery has successfully created a digital haven for pixel art enthusiasts, providing a secure and engaging platform for artists and collectors alike. The integration of blockchain technology ensures transparency and authenticity in the world of digital art, fostering a vibrant community that appreciates the uniqueness and creativity of pixel art NFTs.
+Thr33-D33 has successfully provided a platform for users to unleash their creativity and bring their ideas to life. The app's innovative technology and user-friendly interface have made it a go-to tool for artists, designers, and anyone looking to visualize their imagination.
+
+## Client Testimonial
+
+> We couldn't be happier with the results delivered by Noushad. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
