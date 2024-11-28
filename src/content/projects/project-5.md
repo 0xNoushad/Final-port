@@ -1,57 +1,49 @@
 ---
-title: 'Thr33-D33: 3D Representation App'
-description: Thr33-D33 is a mobile app that converts 2D text and images into stunning 3D representations. Users can input text or upload images, and the app will generate a 3D model, bringing their creations to life.
+title: 'DeProfile: Simplify Your Portfolio Management'
+description: DeProfile is your all-in-one portfolio tracker built on the Solana blockchain. Effortlessly manage, track, and analyze your cryptocurrency investments with a secure and intuitive platform.
 publishDate: 'Aug 02 2024'
 seo:
   image:
     src: '/project-1.jpg'
-    alt: Project preview
+    alt: 'DeProfile Portfolio Tracker'
 ---
 
-![Project preview](/project-1.jpg)
+![DeProfile preview](/project-5.jpg)
 
-Check Here:(<https://thr-33-d33.vercel.app/>)
+Check Here: [DeProfile](https://deez-profile.vercel.app/)
 
-**Project Overview:**
-Thr33-D33 is a revolutionary mobile application that empowers users to create stunning 3D representations from 2D text and images. With a focus on creativity and innovation, Thr33-D33 brings users' ideas to life, making it an ideal tool for artists, designers, and anyone looking to visualize their imagination.
-
-## Objectives
-
-1. Develop a user-friendly mobile app that converts 2D text and images into 3D representations.
-2. Utilize cutting-edge technology to provide high-quality 3D models.
-3. Offer a platform for users to express their creativity and bring their ideas to life.
+**About DeProfile:**  
+DeProfile is a streamlined portfolio management tool designed for simplicity and efficiency. Built on the Solana blockchain, DeProfile provides a secure, real-time platform for managing and analyzing your cryptocurrency investments. With its user-friendly interface and robust features, DeProfile makes portfolio tracking effortless and accessible to all.
 
 ## Features
 
-1. **Text-to-3D:**
+1. **Connect Your Wallet:**
 
--Users can input text, and the app will generate a 3D representation of the text.
--Customizable fonts, colors, and styles allow users to personalize their 3D text.
+   - Seamlessly integrate your digital wallet for real-time updates.
+   - Instant synchronization with Solana blockchain assets.
 
-. **Image-to-3D:**
+2. **Track Performance:**
 
--Users can upload images, and the app will convert them into 3D models.
--Advanced algorithms ensure high-quality 3D representations, preserving the original image's details.
+   - Get a comprehensive view of your cryptocurrency investments.
+   - Real-time tracking of asset values for up-to-date insights.
 
-. **Gallery and Sharing:**
+3. **Monitor Gains & Losses:**
 
-- Users can save and view their 3D creations in a personalized gallery.
-  -Share 3D models on social media or via email, allowing users to showcase their creativity.
+   - Intuitive metrics and analytics provide an at-a-glance view of portfolio performance.
+   - Detailed breakdowns of gains and losses to inform smarter decisions.
 
-. **3D Model Customization:**
+4. **Enhanced Security:**
+   - Built on the Solana blockchain for maximum security and reliability.
+   - Ensures your data and assets are protected with cutting-edge technology.
 
-- Users can customize their 3D models with various materials, textures, and lighting effects.
-  -Real-time rendering allows users to see the changes they make to their 3D models.
+## Why DeProfile?
 
-## Technology Stack
+- **User-Friendly Interface:** Simple, intuitive design for all users, from beginners to experts.
+- **Real-Time Analytics:** Stay ahead with instant updates on your portfolio’s performance.
+- **Blockchain-Powered:** Harness the power and security of the Solana blockchain for seamless functionality.
 
-- Frontend: HTML, CSS, and JavaScript for building the mobile app's user interface and client-side logic.
-  -API: Hugging Face's API for image processing and 3D model generation, providing high-quality 3D representations.
+## Let’s Simplify Your Portfolio
 
-## Outcome
+DeProfile is the ultimate tool for crypto investors who want an effortless and secure way to manage their portfolios. Connect your wallet, track your assets, and gain valuable insights—all in one place.
 
-Thr33-D33 has successfully provided a platform for users to unleash their creativity and bring their ideas to life. The app's innovative technology and user-friendly interface have made it a go-to tool for artists, designers, and anyone looking to visualize their imagination.
-
-## Client Testimonial
-
-> We couldn't be happier with the results delivered by Noushad. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
+Start managing your portfolio with DeProfile today!

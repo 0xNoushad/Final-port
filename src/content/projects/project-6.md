@@ -1,57 +1,61 @@
 ---
-title: 'Thr33-D33: 3D Representation App'
-description: Thr33-D33 is a mobile app that converts 2D text and images into stunning 3D representations. Users can input text or upload images, and the app will generate a 3D model, bringing their creations to life.
+title: 'Sol-to-SPL: Instantly Liquidate NFTs to Any Token'
+description: Sol-to-SPL is a Solana-based platform that allows users to liquidate any NFT into any SPL token, including stablecoins like USDC and USDT, at the best available price.
 publishDate: 'Aug 02 2024'
 seo:
   image:
     src: '/project-1.jpg'
-    alt: Project preview
+    alt: 'Sol-to-SPL NFT Liquidation'
 ---
 
-![Project preview](/project-1.jpg)
+![Sol-to-SPL preview](/project-6.jpg)
 
-Check Here:(<https://thr-33-d33.vercel.app/>)
+Check Here: [Sol-to-SPL](https://sol-to-spl.vercel.app/)
 
-**Project Overview:**
-Thr33-D33 is a revolutionary mobile application that empowers users to create stunning 3D representations from 2D text and images. With a focus on creativity and innovation, Thr33-D33 brings users' ideas to life, making it an ideal tool for artists, designers, and anyone looking to visualize their imagination.
+**About Sol-to-SPL:**  
+Sol-to-SPL is a cutting-edge platform designed to simplify NFT trading on the Solana blockchain. It enables users to instantly liquidate any SOL-based NFT into any SPL token, including popular stablecoins like USDC and USDT. By providing a seamless, efficient, and transparent exchange process, Sol-to-SPL empowers traders and collectors with greater flexibility in managing their assets.
 
-## Objectives
+## Key Features
 
-1. Develop a user-friendly mobile app that converts 2D text and images into 3D representations.
-2. Utilize cutting-edge technology to provide high-quality 3D models.
-3. Offer a platform for users to express their creativity and bring their ideas to life.
+1. **Instant NFT Liquidation:**
 
-## Features
+   - Exchange your SOL-based NFTs for any SPL token instantly.
+   - Supports popular stablecoins like USDC and USDT for easy cash-equivalent transactions.
 
-1. **Text-to-3D:**
+2. **Best Price Guarantee:**
 
--Users can input text, and the app will generate a 3D representation of the text.
--Customizable fonts, colors, and styles allow users to personalize their 3D text.
+   - Access the best available price for your NFT at the time of liquidation.
+   - Transparent pricing powered by real-time market data.
 
-. **Image-to-3D:**
+3. **User-Friendly Interface:**
 
--Users can upload images, and the app will convert them into 3D models.
--Advanced algorithms ensure high-quality 3D representations, preserving the original image's details.
+   - Intuitive platform design for hassle-free NFT liquidation.
+   - Streamlined process to connect your wallet and complete transactions in seconds.
 
-. **Gallery and Sharing:**
+4. **Secure Transactions:**
 
-- Users can save and view their 3D creations in a personalized gallery.
-  -Share 3D models on social media or via email, allowing users to showcase their creativity.
+   - Built on the Solana blockchain for fast, reliable, and secure exchanges.
+   - Ensures the safety of your assets throughout the transaction process.
 
-. **3D Model Customization:**
+5. **Support for All SPL Tokens:**
+   - Flexibility to convert your NFT into any SPL token of your choice.
+   - Ideal for traders preferring stable assets or diversifying their portfolios.
 
-- Users can customize their 3D models with various materials, textures, and lighting effects.
-  -Real-time rendering allows users to see the changes they make to their 3D models.
+## Why Use Sol-to-SPL?
 
-## Technology Stack
+- **Convenience:** Simplifies NFT liquidation by offering a one-stop solution for converting NFTs to SPL tokens.
+- **Flexibility:** Provides access to a wide range of tokens, including stablecoins, for added versatility.
+- **Transparency:** Real-time pricing and a clear transaction process ensure a trustworthy user experience.
 
-- Frontend: HTML, CSS, and JavaScript for building the mobile app's user interface and client-side logic.
-  -API: Hugging Face's API for image processing and 3D model generation, providing high-quality 3D representations.
+## How It Works
 
-## Outcome
+1. Connect your Solana wallet to the platform.
+2. Select the NFT you want to liquidate.
+3. Choose the SPL token you want in return.
+4. Confirm the transaction and receive your chosen token instantly at the best available price.
 
-Thr33-D33 has successfully provided a platform for users to unleash their creativity and bring their ideas to life. The app's innovative technology and user-friendly interface have made it a go-to tool for artists, designers, and anyone looking to visualize their imagination.
+## Revolutionize NFT Trading
 
-## Client Testimonial
+Sol-to-SPL transforms how Solana-based NFTs are traded by offering unparalleled convenience and flexibility. Whether you’re looking to cash out in stablecoins or exchange for another token, Sol-to-SPL makes the process seamless and secure.
 
-> We couldn't be happier with the results delivered by Noushad. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
+Start liquidating your NFTs today with Sol-to-SPL!

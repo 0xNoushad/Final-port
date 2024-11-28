@@ -1,57 +1,65 @@
 ---
-title: 'Thr33-D33: 3D Representation App'
-description: Thr33-D33 is a mobile app that converts 2D text and images into stunning 3D representations. Users can input text or upload images, and the app will generate a 3D model, bringing their creations to life.
+title: 'Blink Squad: Claim Rent with Solana Blinks'
+description: Blink Squad introduces Blinkathon, a platform powered by Solana Blinks, enabling users to claim rent seamlessly through shareable, integrated links for effortless blockchain interaction.
 publishDate: 'Aug 02 2024'
 seo:
   image:
     src: '/project-1.jpg'
-    alt: Project preview
+    alt: 'Blink Squad Platform Preview'
 ---
 
-![Project preview](/project-1.jpg)
+![Blink Squad preview](/project-2.jpg)
 
-Check Here:(<https://thr-33-d33.vercel.app/>)
+Check Here: [Blink Squad](https://blink-squad.vercel.app/)
 
-**Project Overview:**
-Thr33-D33 is a revolutionary mobile application that empowers users to create stunning 3D representations from 2D text and images. With a focus on creativity and innovation, Thr33-D33 brings users' ideas to life, making it an ideal tool for artists, designers, and anyone looking to visualize their imagination.
+**About Blink Squad:**  
+Blink Squad is a cutting-edge platform built on Solana Blinks, a transformative technology that simplifies blockchain interactions. Leveraging Solana Actions and Blinks, Blink Squad enables users to seamlessly claim rent using integrated, shareable links for a user-friendly experience.
 
-## Objectives
+## What Are Solana Blinks?
 
-1. Develop a user-friendly mobile app that converts 2D text and images into 3D representations.
-2. Utilize cutting-edge technology to provide high-quality 3D models.
-3. Offer a platform for users to express their creativity and bring their ideas to life.
+Solana Actions are specialized APIs designed to facilitate transactions between Solana apps and users, simplifying interactions with the blockchain. Solana Blinks take this a step further by converting these Actions into integrated, shareable links, called Blinks. These Blinks make blockchain functionalities accessible, efficient, and easy to use.
 
-## Features
+## Key Features
 
-1. **Text-to-3D:**
+1. **Effortless Rent Claims:**
 
--Users can input text, and the app will generate a 3D representation of the text.
--Customizable fonts, colors, and styles allow users to personalize their 3D text.
+   - Claim rent through Solana Blinks with just a few clicks.
+   - Simplifies blockchain interactions using shareable links.
 
-. **Image-to-3D:**
+2. **Powered by Solana Blinks:**
 
--Users can upload images, and the app will convert them into 3D models.
--Advanced algorithms ensure high-quality 3D representations, preserving the original image's details.
+   - Utilizes Solana Actions to create seamless, integrated experiences.
+   - Shareable links eliminate complexity and improve accessibility.
 
-. **Gallery and Sharing:**
+3. **User-Centric Design:**
 
-- Users can save and view their 3D creations in a personalized gallery.
-  -Share 3D models on social media or via email, allowing users to showcase their creativity.
+   - Intuitive and easy-to-navigate platform for all users.
+   - Simplifies advanced blockchain functionalities for everyday use.
 
-. **3D Model Customization:**
+4. **Secure & Scalable:**
 
-- Users can customize their 3D models with various materials, textures, and lighting effects.
-  -Real-time rendering allows users to see the changes they make to their 3D models.
+   - Built on Solana’s high-performance blockchain infrastructure.
+   - Ensures fast, secure, and transparent transactions.
 
-## Technology Stack
+5. **Shareable Interaction Links:**
+   - Share rent-claim actions directly with others via Blinks.
+   - Facilitates collaboration and streamlines processes.
 
-- Frontend: HTML, CSS, and JavaScript for building the mobile app's user interface and client-side logic.
-  -API: Hugging Face's API for image processing and 3D model generation, providing high-quality 3D representations.
+## How It Works
 
-## Outcome
+1. Connect your Solana wallet to Blink Squad.
+2. Access Blinkathon's rent claim feature powered by Solana Blinks.
+3. Use the generated shareable Blinks to initiate or share transactions.
+4. Complete rent claims securely and efficiently in a few simple steps.
 
-Thr33-D33 has successfully provided a platform for users to unleash their creativity and bring their ideas to life. The app's innovative technology and user-friendly interface have made it a go-to tool for artists, designers, and anyone looking to visualize their imagination.
+## Why Blink Squad?
 
-## Client Testimonial
+- **Innovative Technology:** Built on Solana Blinks, transforming blockchain interactions.
+- **Streamlined Processes:** Shareable links simplify complex blockchain actions.
+- **Scalable & Secure:** Designed to grow with the Solana ecosystem, ensuring robust functionality.
 
-> We couldn't be happier with the results delivered by Noushad. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
+## Revolutionize Rent Management
+
+Blink Squad, powered by Blinkathon and Solana Blinks, redefines how users claim rent and interact with the blockchain. By turning blockchain Actions into shareable, integrated links, we make advanced blockchain functionalities accessible to everyone.
+
+Join Blink Squad today and experience the future of rent management on Solana!

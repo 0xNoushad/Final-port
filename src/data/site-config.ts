@@ -40,7 +40,7 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
 
     title: 'Noushad',
-    subtitle: 'A FrontEnd Dev Who Is Learning BackEnd',
+    subtitle: 'Walking on Water ',
     description: 'Personal Portfolio',
 
     headerNavLinks: [

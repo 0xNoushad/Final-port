@@ -1,57 +1,62 @@
 ---
-title: 'Thr33-D33: 3D Representation App'
-description: Thr33-D33 is a mobile app that converts 2D text and images into stunning 3D representations. Users can input text or upload images, and the app will generate a 3D model, bringing their creations to life.
+title: 'Dust Cleaner: Token Cleaning Tool'
+description: Dust Cleaner is a powerful web app designed to help users clean up low-value tokens (less than or equal to 5 USD or SOL) from their Solana wallets effortlessly.
 publishDate: 'Aug 02 2024'
 seo:
   image:
     src: '/project-1.jpg'
-    alt: Project preview
+    alt: 'Dust Cleaner preview'
 ---
 
-![Project preview](/project-1.jpg)
+![Project preview](/project-7.jpg)
 
-Check Here:(<https://thr-33-d33.vercel.app/>)
+Check Here: [Dust Cleaner](https://dust-cleaner.noushad.site/)
 
-**Project Overview:**
-Thr33-D33 is a revolutionary mobile application that empowers users to create stunning 3D representations from 2D text and images. With a focus on creativity and innovation, Thr33-D33 brings users' ideas to life, making it an ideal tool for artists, designers, and anyone looking to visualize their imagination.
+**Project Overview:**  
+Dust Cleaner is a user-friendly web application designed to help Solana wallet users efficiently clean up "dust" tokens—those with values less than or equal to 5 USD or SOL. With its intuitive interface and seamless functionality, Dust Cleaner makes wallet management simpler and more organized. It’s the perfect tool for maintaining a clutter-free wallet and optimizing blockchain performance.
 
 ## Objectives
 
-1. Develop a user-friendly mobile app that converts 2D text and images into 3D representations.
-2. Utilize cutting-edge technology to provide high-quality 3D models.
-3. Offer a platform for users to express their creativity and bring their ideas to life.
+1. Provide users with an efficient tool to clean up low-value tokens (dust) in their Solana wallets.
+2. Ensure secure and fast transactions while managing wallet assets.
+3. Enhance wallet usability and streamline the user experience on the Solana blockchain.
 
 ## Features
 
-1. **Text-to-3D:**
+1. **Automated Dust Detection:**
 
--Users can input text, and the app will generate a 3D representation of the text.
--Customizable fonts, colors, and styles allow users to personalize their 3D text.
+   - Automatically scans the user's wallet to identify tokens valued at 5 USD or less.
+   - Intuitive UI highlights detected dust tokens for easy review.
 
-. **Image-to-3D:**
+2. **Secure Token Cleanup:**
 
--Users can upload images, and the app will convert them into 3D models.
--Advanced algorithms ensure high-quality 3D representations, preserving the original image's details.
+   - Enables users to remove unwanted tokens from their wallets in one click.
+   - Blockchain-secured transactions ensure safety during the cleaning process.
 
-. **Gallery and Sharing:**
+3. **Wallet Analysis Dashboard:**
 
-- Users can save and view their 3D creations in a personalized gallery.
-  -Share 3D models on social media or via email, allowing users to showcase their creativity.
+   - Provides insights into token distribution and wallet composition.
+   - Helps users visualize their wallet's balance and value breakdown.
 
-. **3D Model Customization:**
+4. **Customizable Thresholds:**
 
-- Users can customize their 3D models with various materials, textures, and lighting effects.
-  -Real-time rendering allows users to see the changes they make to their 3D models.
+   - Users can set their own value thresholds for token identification.
+   - Flexible options to adapt to user preferences and wallet sizes.
+
+5. **Seamless Integration:**
+   - Compatible with leading Solana wallet providers, ensuring a smooth experience.
+   - Built for speed, with optimized performance to handle wallets of any size.
 
 ## Technology Stack
 
-- Frontend: HTML, CSS, and JavaScript for building the mobile app's user interface and client-side logic.
-  -API: Hugging Face's API for image processing and 3D model generation, providing high-quality 3D representations.
+- **Frontend:** HTML, CSS, and JavaScript for the web app's responsive user interface.
+- **Backend:** Node.js and Solana Web3.js for seamless blockchain interactions and transaction processing.
+- **API Integration:** Solana RPC for token data and real-time wallet updates.
 
 ## Outcome
 
-Thr33-D33 has successfully provided a platform for users to unleash their creativity and bring their ideas to life. The app's innovative technology and user-friendly interface have made it a go-to tool for artists, designers, and anyone looking to visualize their imagination.
+Dust Cleaner has simplified wallet management for Solana users, enabling them to remove low-value tokens with ease. Its secure, efficient, and intuitive design has made it a must-have tool for maintaining a clutter-free wallet while optimizing performance on the Solana blockchain.
 
 ## Client Testimonial
 
-> We couldn't be happier with the results delivered by Noushad. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
+> "Dust Cleaner is a game-changer for our Solana wallets! Managing tokens has never been this easy. The app’s sleek design and fast transactions make it a joy to use. Noushad’s attention to detail and innovative approach truly set this tool apart!"

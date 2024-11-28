@@ -10,7 +10,7 @@ seo:
 
 ## Noushad - Web Developer
 
-**Namaste!** I'm Noushad, a passionate web developer residing in the vibrant and diverse landscapes of [India](https://en.wikipedia.org/wiki/India). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+**Hello!** I'm Noushad, a passionate web developer Working in Creative Spaces. With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
 
 ## Skills and Expertise
 
