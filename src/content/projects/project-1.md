@@ -51,7 +51,3 @@ Thr33-D33 is a revolutionary mobile application that empowers users to create st
 ## Outcome
 
 Thr33-D33 has successfully provided a platform for users to unleash their creativity and bring their ideas to life. The app's innovative technology and user-friendly interface have made it a go-to tool for artists, designers, and anyone looking to visualize their imagination.
-
-## Client Testimonial
-
-> We couldn't be happier with the results delivered by Noushad. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.

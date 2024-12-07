@@ -14,7 +14,9 @@ seo:
 
 ## Skills and Expertise
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Next.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+I specialize in crafting seamless digital experiences through modern front-end and back-end development. My expertise lies in building dynamic, interactive user interfaces using cutting-edge frameworks like **React**, **Next.js**, and **Astro**, enabling blazing-fast and visually stunning websites. On the back end, I excel with **Node.js**, **TypeScript**, and **Supabase**, creating scalable, efficient server architectures.
+
+With a passion for state management, component-driven design, and performance optimization, I’m fluent in leveraging tools like **Redux**, **Tailwind CSS**, and serverless technologies to deliver high-quality solutions. Whether it’s integrating real-time updates, managing complex databases like **MongoDB**, or deploying robust APIs, I’m committed to pushing the boundaries of what’s possible with code.
 
 ## Innovation and Problem-Solving
 

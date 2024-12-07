@@ -38,10 +38,18 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-
     title: 'Noushad',
-    subtitle: 'Walking on Water ',
-    description: 'Personal Portfolio',
+    subtitle: 'Walking on Water',
+    description: 'Portfolio',
+
+    hero: {
+
+        text: `I'm Noushad, a full-stack developer with a passion for the uncharted horizons of Web3 and blockchain innovation. 
+               My journey bridges creativity and technology, as I strive to craft intuitive, secure, and aesthetic digital solutions. 
+               I believe in the synergy of code, design, and user experience to create impactful products. 
+               Explore my coding adventures on <a href="https://github.com/0xNoushad" target="_blank" rel="noopener noreferrer">GitHub</a> 
+               or connect with me on <a href="https://x.com/0xNoushad" target="_blank" rel="noopener noreferrer">Twitter/X</a> to join the journey.`,
+    },
 
     headerNavLinks: [
         {
@@ -69,18 +77,18 @@ const siteConfig: SiteConfig = {
         {
             text: 'Contact',
             href: '/contact'
-        },
-
-
+        }
     ],
     socialLinks: [
-
         {
             text: 'X/Twitter',
             href: 'https://x.com/0xNoushad'
+        },
+        {
+            text: 'Github',
+            href: 'https://Github.com/0xNoushad'
         }
     ],
-
 
     postsPerPage: 8,
     projectsPerPage: 8
